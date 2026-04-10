@@ -1,0 +1,14 @@
+b018ce5eb4d408e921a988a76c5f2bf4 *DESCRIPTION
+8e6d80bbd0b7207179e1557c0cd61116 *NAMESPACE
+ab512f50802f2d62f9feef26dd74ef91 *NEWS.md
+b96c60d9f69a68a4e43e019fbbf8b0fc *R/example_data.R
+c5d03e6e16d21b34164583a7f78f2d1d *R/fit_ncm.R
+b558fb6558bbbadd0615f8313495ef09 *R/zzz.R
+7b4f63de7ec1b586cd8daaa74d25d95b *README.md
+82bd9729efc74c0726c7598265295556 *data/example_data.rda
+d509afee08e8d5af9b2093f700ef76a2 *man/example_data.Rd
+d0fb6c414e1487b9be9ac88e028fe91f *man/fit_ncm.Rd
+e4a964c7fe3fe7e7976979a5320d5409 *man/print.summary_ncm.Rd
+c4c91834f869641567c555fd167c61df *man/print.summary_ncm_group.Rd
+83d68bc0220d396413febdab5be61e31 *man/summary.NCM.Rd
+c759a7aafed0f28d6fbd055abaa86660 *man/summary.NCM_group.Rd
