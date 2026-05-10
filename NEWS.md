@@ -1,3 +1,24 @@
+# ncmR 0.3.1 (2026-04-21)
+
+## BUG FIXES
+
+-   Fixed row name loss when converting data frame columns to numeric during file upload.
+
+# ncmR 0.3.0 (2026-04-19)
+
+## NEW FEATURES
+
+-   feat: add Shiny application with Fit NCM and Plotting modules.
+
+## CHANGES
+
+-   `scatter_plot`: removed Unicode characters from custom legend labels for broader compatibility.
+
+## REMOVED
+
+-   `print.unicode_ggplot()` and `ggsave_unicode()`: no longer needed after removing Unicode dependency from plotting functions.
+
+
 # ncmR 0.2.0 (2026-04-15)
 
 ## NEW FEATURES
